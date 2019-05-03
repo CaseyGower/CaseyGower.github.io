@@ -86,7 +86,7 @@ a:hover {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  background-position: center center;
+  background-position: center top;
 }
 
 .overlay-mf {
@@ -100,7 +100,7 @@ a:hover {
   padding: 0;
   height: 100%;
   width: 100%;
-  opacity: .4;
+  opacity: .5;
 }
 
 .paralax-mf {
